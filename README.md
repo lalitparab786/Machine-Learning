@@ -1,43 +1,29 @@
-  SVM PROJECT
+__SVM PROJECT__
 
 Support Vector Machines Classifier Tutorial with Python
 
 Support Vector Machines (SVMs in short) are supervised machine learning algorithms that are used for classification and regression purposes. In this kernel, I build a Support Vector Machines classifier to classify a Pulsar star. I have used the Predicting a Pulsar Star dataset for this project.
 
 
-Table of Contents
+__Table of Contents__
 
-Introduction to Support Vector Machines
-Support Vector Machines intuition
-Kernel trick
-SVM Scikit-Learn libraries
-Dataset description
-Import libraries
-Import dataset
-Exploratory data analysis
-Declare feature vector and target variable
-Split data into separate training and test set
-Feature scaling
-Run SVM with default hyperparameters
-Run SVM with linear kernel
-Run SVM with polynomial kernel
-Run SVM with sigmoid kernel
-Confusion matrix
-Classification metrices
-ROC - AUC
-Stratified k-fold Cross Validation with shuffle split
-Hyperparameter optimization using GridSearch CV
-Results and conclusion
-References
+___1.Introduction to Support Vector Machines___
 
-About this Dataset-
+___2.Support Vector Machines intuition___
 
+___3.Kernel trick___
 
-Gender Recognition by Voice and Speech Analysis
+___4.SVM Scikit-Learn libraries___
+
+___5.Dataset description___
+
+__About this Dataset__
+
+I am using Gender Recognition by Voice and Speech Analysis for this Project
 
 This database was created to identify a voice as male or female, based upon acoustic properties of the voice and speech. The dataset consists of 3,168 recorded voice samples, collected from male and female speakers. The voice samples are pre-processed by acoustic analysis in R using the seewave and tuneR packages, with an analyzed frequency range of 0hz-280hz (human vocal range).
 
-The Dataset
+__Attribute Information__
 
 The following acoustic properties of each voice are measured and included within the CSV:
 
@@ -83,3 +69,33 @@ The following acoustic properties of each voice are measured and included within
 20)modindx: modulation index. Calculated as the accumulated absolute difference between adjacent measurements of fundamental frequencies divided by the frequency range
 
 21)label: male or female
+
+
+___6.Import libraries___
+
+___7.Import dataset___
+
+___8.Exploratory data analysis___
+
+___9.Declare feature vector and target variable___
+
+___10.Feature Scaling___
+
+___11.Split data into separate training and test set___
+
+___12.Run SVM with default hyperparameters___
+
+___13.Check for overfitting and underfitting___
+
+___14.ROC-AUC Curve___
+
+___15.Calculate Cross-Validation score___
+
+___16.KFOld CV with Shuffle___
+
+___17.Hyperparameter optimization using GridSearch CV
+
+___18.Results and conclusion___
+
+___19.References___
+
