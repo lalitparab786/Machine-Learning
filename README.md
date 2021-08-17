@@ -9,7 +9,37 @@ __Table of Contents__
 
 ___1.Introduction to Support Vector Machines___
 
+Support Vector Machines (SVMs in short) are machine learning algorithms that are used for classification and regression purposes. SVMs are one of the powerful machine learning algorithms for classification, regression purposes. An SVM classifier builds a model that assigns new data points to one of the given categories. Thus, it can be viewed as a non-probabilistic binary linear classifier.
+
+The original SVM algorithm was developed by Vladimir N Vapnik and Alexey Ya. Chervonenkis in 1963. At that time, the algorithm was in early stages. The only possibility is to draw hyperplanes for linear classifier. In 1992, Bernhard E. Boser, Isabelle M Guyon and Vladimir N Vapnik suggested a way to create non-linear classifiers by applying the kernel trick to maximum-margin hyperplanes. The current standard was proposed by Corinna Cortes and Vapnik in 1993 and published in 1995.
+
+SVMs can be used for linear classification purposes. In addition to performing linear classification, SVMs can efficiently perform a non-linear classification using the kernel trick. 
+
 ___2.Support Vector Machines intuition___
+
+__Hyperplane__
+
+A hyperplane is a decision boundary which separates between given set of data points having different class labels. The SVM classifier separates data points using a hyperplane with the maximum amount of margin. This hyperplane is known as the maximum margin hyperplane.
+
+__Support Vectors__
+
+Support vectors are the sample data points, which are closest to the hyperplane.
+It helps to determine maximum distance space.
+
+__Margin__
+
+A margin is a separation gap between the two lines on the closest data points. It is calculated as the perpendicular distance from the line to support vectors or closest data points. In SVMs, we try to maximize this separation gap so that we get maximum margin.
+
+The following diagram illustrates these concepts visually.
+
+
+Margin in SVM
+
+![image](https://user-images.githubusercontent.com/89013703/129720649-930721f9-03fa-459c-aca8-2802228a8be4.png)
+
+
+
+
 
 ___3.Kernel trick___
 
