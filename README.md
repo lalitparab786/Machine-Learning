@@ -1,5 +1,35 @@
   SVM PROJECT
 
+Support Vector Machines Classifier Tutorial with Python
+
+Support Vector Machines (SVMs in short) are supervised machine learning algorithms that are used for classification and regression purposes. In this kernel, I build a Support Vector Machines classifier to classify a Pulsar star. I have used the Predicting a Pulsar Star dataset for this project.
+
+
+Table of Contents
+
+Introduction to Support Vector Machines
+Support Vector Machines intuition
+Kernel trick
+SVM Scikit-Learn libraries
+Dataset description
+Import libraries
+Import dataset
+Exploratory data analysis
+Declare feature vector and target variable
+Split data into separate training and test set
+Feature scaling
+Run SVM with default hyperparameters
+Run SVM with linear kernel
+Run SVM with polynomial kernel
+Run SVM with sigmoid kernel
+Confusion matrix
+Classification metrices
+ROC - AUC
+Stratified k-fold Cross Validation with shuffle split
+Hyperparameter optimization using GridSearch CV
+Results and conclusion
+References
+
 About this Dataset-
 
 
