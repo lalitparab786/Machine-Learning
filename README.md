@@ -100,6 +100,8 @@ SVM Classification with rbf kernel
 __Sigmoid kernel__
 Sigmoid kernel has its origin in neural networks. We can use it as the proxy for neural networks.
 
+
+
 Sigmoid kernel      ![image](https://user-images.githubusercontent.com/89013703/129723825-d1e65e7e-072b-4850-b677-866dfd24d5fe.png)
 
 
@@ -189,7 +191,7 @@ ___15.Calculate Cross-Validation score___
 
 ___16.KFOld CV with Shuffle___
 
-___17.Hyperparameter optimization using GridSearch CV
+___17.Hyperparameter optimization using GridSearch CV__
 
 ___18.Results and conclusion___
 
