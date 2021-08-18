@@ -191,7 +191,7 @@ ___15.Calculate Cross-Validation score___
 
 ___16.KFOld CV with Shuffle___
 
-___17.Hyperparameter optimization using GridSearch CV__
+___17.Hyperparameter optimization using GridSearch CV___
 
 ___18.Results and conclusion___
 
