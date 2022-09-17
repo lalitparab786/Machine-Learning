@@ -2,7 +2,7 @@ __SVM PROJECT__
 
 Support Vector Machines Classifier Tutorial with Python
 
-Support Vector Machines (SVM) are supervised machine learning algorithms that are used for classification and regression purposes. In this kernel, I build a Support Vector Machines classifier to classify a Voice based on Gender. I have used the Voice dataset for this project.
+Support Vector Machines (SVM) are supervised machine learning algorithms that are used for classification and regression purposes. In this kernel, I build a Support Vector Machines classifier to classify a Gender based on Voice. I have used the Voice dataset for this project.
 
 
 __Table of Contents__
