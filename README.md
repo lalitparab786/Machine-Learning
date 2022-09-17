@@ -105,15 +105,7 @@ Sigmoid kernel has its origin in neural networks. We can use it as the proxy for
 Sigmoid kernel      ![image](https://user-images.githubusercontent.com/89013703/129723825-d1e65e7e-072b-4850-b677-866dfd24d5fe.png)
 
 
-___4.SVM Scikit-Learn libraries___
-
-Scikit-Learn provides useful libraries to implement Support Vector Machine algorithm on a dataset. There are many libraries that can help us to implement SVM smoothly. We just need to call the library with parameters that suit to our needs. In this project, I am dealing with a classification task. So, I will mention the Scikit-Learn libraries for SVM classification purposes.
-
-First, there is a LinearSVC() classifier. As the name suggests, this classifier uses only linear kernel. In LinearSVC() classifier, we don’t pass the value of kernel since it is used only for linear classification purposes.
-
-Scikit-Learn provides two other classifiers - SVC() and NuSVC() which are used for classification purposes. These classifiers are mostly similar with some difference in parameters. NuSVC() is similar to SVC() but uses a parameter to control the number of support vectors. We pass the values of kernel, gamma and C along with other parameters. By default kernel parameter uses rbf as its value but we can pass values like poly, linear, sigmoid or callable function.
-
-___5.Dataset description___
+___4.Dataset description___
 
 __About this Dataset__
 
