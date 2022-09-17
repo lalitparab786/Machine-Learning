@@ -158,32 +158,9 @@ The following acoustic properties of each voice are measured and included within
 
 20)modindx: modulation index. Calculated as the accumulated absolute difference between adjacent measurements of fundamental frequencies divided by the frequency range
 
-21)label: male or female
+21)label: male or female 
 
-
-___6.Import libraries___
-
-___7.Import dataset___
-
-___8.Exploratory data analysis___
-
-___9.Declare feature vector and target variable___
-
-___10.Feature Scaling___
-
-___11.Split data into separate training and test set___
-
-___12.Run SVM with default hyperparameters___
-
-___13.Check for overfitting and underfitting___
-
-___14.ROC-AUC Curve___
-
-___15.Calculate Cross-Validation score___
-
-___16.KFOld CV with Shuffle___
-
-___17.Hyperparameter optimization using GridSearch CV___
+Target column is label & rest of all is independent features.
 
 ___18.Results and conclusion___
 
