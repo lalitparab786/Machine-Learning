@@ -158,11 +158,11 @@ The following acoustic properties of each voice are measured and included within
 
 20)modindx: modulation index. Calculated as the accumulated absolute difference between adjacent measurements of fundamental frequencies divided by the frequency range
 
-21)label: male or female 
+21)label: male(1) & female(0) 
 
 Target column is label & rest of all is independent features.
 
-___18.Results and conclusion___
+___5.Results and conclusion___
 
 There are outliers in our dataset. So, as I increase the value of C to limit fewer outliers, the accuracy increased. This is true with different kinds of kernels.
 
@@ -176,7 +176,7 @@ Our original model test accuracy is 0.9832 while GridSearch CV score on test-set
 
 
 
-___19.References___
+___6.References___
 
 So, now we will come to the end of this Project.
 Thank You.
