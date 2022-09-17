@@ -2,7 +2,7 @@ __SVM PROJECT__
 
 Support Vector Machines Classifier Tutorial with Python
 
-Support Vector Machines (SVMs in short) are supervised machine learning algorithms that are used for classification and regression purposes. In this kernel, I build a Support Vector Machines classifier to classify a Pulsar star. I have used the Predicting a Pulsar Star dataset for this project.
+Support Vector Machines (SVM) are supervised machine learning algorithms that are used for classification and regression purposes. In this kernel, I build a Support Vector Machines classifier to classify a Pulsar star. I have used the Predicting a Pulsar Star dataset for this project.
 
 
 __Table of Contents__
