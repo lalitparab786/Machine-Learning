@@ -176,7 +176,5 @@ Our original model test accuracy is 0.9832 while GridSearch CV score on test-set
 
 
 
-___6.References___
-
 So, now we will come to the end of this Project.
 Thank You.
