@@ -168,7 +168,7 @@ There are outliers in our dataset. So, as I increase the value of C to limit few
 
 We get maximum accuracy with rbf and linear kernel with C=100.0 and the accuracy is 0.9832. So, we can conclude that our model is doing a very good job in terms of predicting the class labels. But, this is not true. Here, we have an imbalanced dataset. Accuracy is an inadequate measure for quantifying predictive performance in the imbalanced dataset problem. So, we must explore confusion matrix that provide better guidance in selecting models.
 
-ROC AUC of our model is very close to 1. So, we can conclude that our classifier does a good job in classifying the pulsar star.
+ROC AUC of our model is very close to 1. So, we can conclude that our classifier does a good job in classifying the Voice.
 
 I obtain higher average stratified k-fold cross-validation score of 0.9789 with linear kernel but the model accuracy is 0.9832. So, stratified cross-validation technique does not help to improve the model performance.
 
