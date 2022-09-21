@@ -170,7 +170,7 @@ ROC AUC of our model is very close to 1. So, we can conclude that our classifier
 
 I obtain average k-fold cross-validation score of 0.9734 with linear kernel but the model accuracy is 0.9700. So, KFold-CV technique  help to improve the model performance.
 
-Our original model test accuracy is 0.9700 while GridSearch CV score on test-set with high Accuracy of **** 0.9763***. So, GridSearch CV really helps to identify the best parameters that will improve the performance of our Model.
+Our original model test accuracy is 0.9700 while GridSearch CV score on test-set with high Accuracy of 0.9763. So, GridSearch CV really helps to identify the best parameters that will improve the performance of our Model.
 
 
 
